@@ -1,0 +1,26 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Amitjoshi\\PhpMongodbTodo\\" : "src"
+		}
+	},
+	"name" : "amitjoshi/phpMongodbTodo",
+	"description" : "phpMongodbTodoApp",
+	"require" : {
+		"php" : ">=7.1",
+		"mongodb/mongodb" : "~1.5"
+	},
+	"keywords" : [
+		"php mongodb"
+	],
+	"authors" : [{
+			"name" : "Er. Amit Joshi",
+			"email" : "amitjoc@gmail.com",
+			"homepage" : "amitjoc@gmail.com",
+			"role" : "Software Developer"
+		}
+	],
+	"support" : {
+		"email" : "amitjoc@gmail.com"
+	}
+}
